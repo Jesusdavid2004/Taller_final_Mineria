@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+*.log
+.pytest_cache/
+.DS_Store
+# Directorios generados por herramientas de agentes (no son del proyecto)
+.agents/
+.claude/
